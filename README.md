@@ -1,4 +1,4 @@
-### Hi, I'm Terry 👋
+# Hi, I'm Terry 👋
 ![](https://raw.githubusercontent.com/teraprath/teraprath/main/Banner.jpg)
 
 I'm an 18-year-old student, designer & developer. My dream is a successful path to becoming a full stack web developer and you can accompany me on this one.
