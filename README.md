@@ -8,5 +8,3 @@ I'm an 18-year-old student, designer & developer. My dream is a successful path 
 - 📫 How to reach me: teraprath@gmail.com 
 
 **Skills:** Python, JavaScript, CSS, HTML
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teraprath&show_icons=true&theme=dark)
