@@ -8,7 +8,7 @@ I'm an 18-year-old student, designer & developer. My dream is a successful path 
 - 📫 How to reach me: teraprath@gmail.com 
 
 ## Skills and Experience
-- 🐍 Python
-- 📱 JavaScript
+- 🐍 Python (Flask)
+- 📱 JavaScript (Node & Express)
 - 📝 CSS (Sass)
-- 💻 HTML
+- 💻 HTML5
